@@ -5,7 +5,7 @@ How to run the program:
 compileall all five files: 
 ./compileall  
 
-Generate long enough encryption key : 
+Generate long enough encryption key :/n 
 ./keygen 70000 > key70000
 
 Run the daemons. "encport"/"decport" can be the 50000+ prot such as 54321 and 54322
